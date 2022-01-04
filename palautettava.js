@@ -10,7 +10,7 @@ function quote(){
             console.log(this.responseText);
             
             const myJson = JSON.parse(this.responseText);
-            document.getElementById("printHere").innerHTML ="''" + myJson[1].text + "''" + " - " + myJson[1].author;
+            document.getElementById("printHere").innerHTML ="''" + myJson[1].text + "''" + "<br>" + " - " + myJson[1].author;
         }
     });
 
