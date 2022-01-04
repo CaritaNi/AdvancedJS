@@ -1,0 +1,23 @@
+body{
+    font-family: 'Pushster', cursive;
+    font-weight: bold;
+    border-style: groove;
+    border-width: thick;
+    background-image: url("../AdvancedJS/texture-g5eb58bf1c_1920.jpg");
+   
+}
+.content1{
+    margin-top: 40px;
+    font-size: 50px;
+    background-color: rgb(203, 224, 216);
+    padding: 15px;
+    margin:  50px;
+    text-align: center;
+    margin-left: 80px;
+}
+button{
+    font-size: 20px;
+    font-family: 'Pushster', cursive;
+    background-color: rgb(32, 128, 184);
+    border-radius: 10px;
+}
