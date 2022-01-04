@@ -6,6 +6,10 @@ body{
     background-image: url("../AdvancedJS/texture-g5eb58bf1c_1920.jpg");
    
 }
+header{
+    border-style: double;
+    border-color: rgb(12, 95, 16);
+}
 .content1{
     margin-top: 40px;
     font-size: 50px;
@@ -20,4 +24,5 @@ button{
     font-family: 'Pushster', cursive;
     background-color: rgb(32, 128, 184);
     border-radius: 10px;
+    color:rgb(203, 224, 216);
 }
