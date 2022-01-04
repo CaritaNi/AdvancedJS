@@ -4,11 +4,11 @@ body{
     border-style: groove;
     border-width: thick;
     background-image: url("../AdvancedJS/texture-g5eb58bf1c_1920.jpg");
-   
 }
 header{
     border-style: double;
     border-color: rgb(12, 95, 16);
+    background-image: url("../AdvancedJS/frame-3186090_960_720.jpg");
 }
 .content1{
     margin-top: 40px;
